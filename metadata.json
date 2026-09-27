@@ -1,0 +1,6 @@
+{
+  "name": "WorldWires Raktár Adatbázis",
+  "description": "WorldWires raktárkészlet és alkatrész adatbázis kezelő rendszer helyi IndexedDB tárolóval, CSV import/export funkcióval és pozíció nyilvántartással.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
